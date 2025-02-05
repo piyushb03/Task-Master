@@ -5,7 +5,7 @@ import datetime
 
 # Initialize the main window
 root = tk.Tk()
-root.title("To-Do List Application")
+root.title("Task Master Application")
 root.configure(bg="lightblue")
 
 # List to store tasks
@@ -59,7 +59,7 @@ def update_task_listbox():
 # Function to show the help documentation
 def show_help():
     help_text = (
-        "To-Do List Application Help\n\n"
+        "Task Master Application Help\n\n"
         "1. Add Task: Enter a task in the input box, select a priority, set a deadline, and click 'Add Task'.\n"
         "2. Edit Task: Select a task from the list, then click 'Edit Task' and enter the new task details.\n"
         "3. Delete Task: Select a task from the list and click 'Delete Task'.\n"
