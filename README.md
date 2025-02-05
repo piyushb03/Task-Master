@@ -1,4 +1,4 @@
-To-Do List Application
+Task Master Application Features:-
 
 1. Add Task: Enter a task in the input box and click 'Add Task'.
 2. Edit Task: Select a task from the list, then click 'Edit Task' and enter the new task details.
